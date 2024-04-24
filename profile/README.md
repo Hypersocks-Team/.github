@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
-
 🙋‍♀️ Hi there, this is the Hypersocks Team! 
 
 🌈 Contribution guidelines - how can the community get involved?
